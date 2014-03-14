@@ -14,28 +14,28 @@ p {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: auto;
-    margin-top: 50%;
+    margin-top: 40%;
   }  
   p {
     font-size: 270%;
   }  
 }
 
-@media(min-width: 501px) and (max-width: 769px) {
+@media(min-width: 501px) and (max-width: 799px) {
   #bg-image {
     background-image: url('bg.png');
-    background-position: center;
+    background-position: center -130px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: auto;
-    margin-top: 40%;
+    margin-top: 30%;
   }  
   p {
     font-size: 340%;
   }  
 }
 
-@media(min-width: 770px) {
+@media(min-width: 800px) {
   #bg-image {
     background-image: url('bg.png');
     background-position: center;
