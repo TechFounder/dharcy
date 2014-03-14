@@ -7,8 +7,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 15%;
-  height: 100%;
+  margin-top: 15%;
 }
 
 p {
@@ -22,7 +21,7 @@ p {
 
 @media(max-width: 768px) {
   #bg-image {
-    padding-top: 50%;
+    margin-top: 50%;
   }  
   p {
     font-size: 270%;
