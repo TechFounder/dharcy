@@ -15,8 +15,8 @@ p {
   color: white;
   font-size: 400%;
   font-weight: bold;
-  background-color: blue;
-  opacity: 0.5;
+  background-color: #6274ab;
+  opacity: 0.6;
 }
 
 @media(max-width: 768px) {
