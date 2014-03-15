@@ -7,7 +7,7 @@ p {
   opacity: 0.6;
 }
 
-@media(max-width: 799px) {
+@media(max-width: 500px) {
   #bg-image {
     background-image: url('bg.png');
     background-position: center;
@@ -21,19 +21,18 @@ p {
   }  
 }
 
-/*@media(min-width: 501px) and (max-width: 799px) {
+@media(min-width: 501px) and (max-width: 799px) {
   #bg-image {
     background-image: url('bg.png');
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: auto;
     margin-top: 30%;
   }  
   p {
     font-size: 340%;
   }  
-}*/
+}
 
 @media(min-width: 800px) {
   #bg-image {
