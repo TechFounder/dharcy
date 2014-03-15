@@ -21,7 +21,7 @@ p {
   }  
 }
 
-@media(min-width: 501px) and (max-width: 799px) {
+@media(min-width: 501px) and (max-width: 825px) {
   #bg-image {
     background-image: url('bg.png');
     background-position: center -75px;
@@ -35,7 +35,7 @@ p {
   }  
 }
 
-@media(min-width: 800px) {
+@media(min-width: 826px) {
   #bg-image {
     background-image: url('bg.png');
     background-position: center;
