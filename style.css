@@ -24,7 +24,7 @@ p {
 @media(min-width: 501px) and (max-width: 799px) {
   #bg-image {
     background-image: url('bg.png');
-    background-position: center;
+    background-position: center -75px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     margin-top: 30%;
