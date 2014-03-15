@@ -27,6 +27,7 @@ p {
     background-position: center -75px;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: auto;
     margin-top: 30%;
   }  
   p {
