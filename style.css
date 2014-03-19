@@ -18,13 +18,10 @@ p {
 }
 
 #email a {
-  color: #444444;
-  text-decoration: none;
-}
-
-span {
   position: relative;
   left: -50%;
+  color: #444444;
+  text-decoration: none;
 }
 
 @media(max-width: 500px) {
