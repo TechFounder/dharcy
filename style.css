@@ -9,16 +9,22 @@ p {
 
 #email {
   font-family: 'Josefin Sans', sans-serif;
-  background-color: white;
   font-size: 300%;
-  padding: 7px 10px 0;
-  margin: 50px 0 0;
+  position: absolute;
+  left: 50%;
+  top: 8%;
+  margin: 0 auto;
   opacity: 0.6;
 }
 
 #email a {
   color: #444444;
   text-decoration: none;
+}
+
+span {
+  position: relative;
+  left: -50%;
 }
 
 @media(max-width: 500px) {
