@@ -8,20 +8,14 @@ p {
 }
 
 #email {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 300%;
   position: absolute;
   left: 50%;
-  top: 8%;
-  margin: 0 auto;
-  opacity: 0.6;
+  top: 1%;
 }
 
-#email a {
+#email img {
   position: relative;
   left: -50%;
-  color: #444444;
-  text-decoration: none;
 }
 
 @media(max-width: 500px) {
@@ -36,8 +30,9 @@ p {
   p {
     font-size: 270%;
   }
-  #email {
-    font-size: 200%;
+  #email img {
+    height: 75%;
+    width: 75%;
   }
 }
 
@@ -53,8 +48,9 @@ p {
   p {
     font-size: 340%;
   }
-  #email {
-    font-size: 240%;
+  #email img {
+    height: 90%;
+    width: 90%;
   }
 }
 
