@@ -8,14 +8,7 @@ p {
 }
 
 #email {
-  position: absolute;
-  left: 50%;
-  top: 1%;
-}
-
-#email img {
-  position: relative;
-  left: -50%;
+  padding-top: 50px;
 }
 
 @media(max-width: 500px) {
